@@ -1,0 +1,74 @@
+a {color: #081e54; text-decoration: none;}
+a:hover {color: #6880ba;} 
+nav a {color: #6d749c;}
+nav a:visited {color: #6d749c;}
+nav a:hover {color:#525775;} 
+nav a:active {color:#2d2f40; text-decoration: bold;}
+body {
+  background: white;
+  color: black;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+   font-weight: normal;
+   color: #14317a;
+   font-size: 30px;
+   margin: 0;
+   padding: 20px 0px 5px;
+
+}
+h2 {
+  font-weight: normal;
+   color: #081e54;
+   font-size: 22px;
+   margin: 0;
+   padding: 0;
+}
+h3 {
+  font-weight: normal;
+   color: #0d286b;
+   font-size: 15px;
+   margin: 0;
+   padding: 0;
+}
+header {
+  text-align: center;
+  padding: 30px 20px 20px;
+}
+section {
+  color: #36383d;
+  padding: 10px 20px 10px;
+  width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 15px;
+  min-height: 300px;
+}
+li {
+  padding: 2px 0 2px;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+nav li {
+  color: #28499e;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70px;
+  font-size: 17px;
+  font-style: normal;
+}
+img {
+  padding: 0 25px 0;
+}
+footer {
+  color: #344163;
+  padding: 20px 20px 60px;
+  text-align: center;
+  font-size: 0px;
+}
